@@ -1,0 +1,38 @@
+# Drawings
+
+### Drawings/
+
+* drawing-basics/
+  * drawing-types
+    * floor-plans
+    * elevations
+    * sections
+    * details
+  * drawing-properties
+    * scales
+    * formats
+    * templates
+  * drawing-creation
+    * automatic-generation
+    * manual-creation
+    * hybrid-approach
+* drawing-elements/
+  * lines-shapes
+  * text-dimensions
+  * hatching-patterns
+  * symbols-blocks
+* drawing-management/
+  * organization
+  * numbering
+  * versioning
+  * references
+* drawing-output/
+  * plotting
+  * exports
+  * batch-processing
+  * documentation
+* plan-views/
+  * creation
+  * management
+  * customization
+  * templates
