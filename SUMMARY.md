@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Getting Started
+# Getting Started
 * [Start with Dietrichs Technology](1_Start/README.md)
   * [Installation](1_Start/Installation/README.md)
   * [Requirements](1_Start/Requirements/README.md)
@@ -10,7 +10,7 @@
   * [Updates](1_Start/Updates/README.md)
   * [Contact](1_Start/Contact/README.md)
 
-## Resources
+# Resources
 * [Additional Resources](2_Resources/README.md)
   * [Forum](2_Resources/Forum/README.md)
   * [YouTube](2_Resources/YouTube/README.md)
