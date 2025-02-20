@@ -1,6 +1,0 @@
----
-icon: play
----
-
-# Getting Started
-
