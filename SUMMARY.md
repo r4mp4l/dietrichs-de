@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Start with Dietrichs Technology](1_Start/README.md)
+* [🇩🇪 Introduction](README.md)
+* [👩‍🎓 Start with Dietrichs Technology](1_Start/README.md)
   * [Installation](1_Start/Installation/README.md)
   * [Requirements](1_Start/Requirements/README.md)
   * [License](1_Start/License/README.md)
