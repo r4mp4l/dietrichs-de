@@ -96,3 +96,8 @@
     * [Open Plan](9_Plan/File/Open/README.md)
     * [Settings](9_Plan/File/Settings/README.md)
   * [Window Menu](9_Plan/Window/README.md)
+
+## Support
+
+* [FAQ](support/faq.md)
+* [Page 1](support/page-1.md)
