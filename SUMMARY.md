@@ -99,5 +99,6 @@
 
 ## Support
 
-* [FAQ](support/faq.md)
+* [FAQ](support/faq/README.md)
+  * [eLearning\_FAQ](support/faq/elearning_faq.md)
 * [Page 1](support/page-1.md)
